@@ -25,7 +25,7 @@ from telebot import types
 # =========================================================
 # CONFIGURATION & CONSTANTS
 # =========================================================
-BOT_TOKEN = "8546395043:AAE0nQWcTuH8mFflnL3Qp8y6rD5XJUefMQk"
+BOT_TOKEN = "8864547814:AAFIJt0hTIObBEy16qxGe3y5uPFFy5af3I0"
 
 # API এন্ডপয়েন্ট কনফিগারেশন
 API_URL_30S = "https://draw.ar-lottery01.com/WinGo/WinGo_30S/GetHistoryIssuePage.json"
